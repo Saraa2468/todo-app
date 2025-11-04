@@ -20,9 +20,9 @@ The goal of this project is to showcase end-to-end DevOps skills — from applic
 ## 🏗️ Project Architecture
 │──Flask Todo App
 |__(Python + HTML)    
-|__Docker                #(Containerization) 
-│──cAdvisor + Prometheus #(Monitoring Stack)       
-|__Grafana               #(Metrics Dashboard)  
+|__Docker                   #(Containerization) 
+│──cAdvisor + Prometheus    #(Monitoring Stack)       
+|__Grafana                  #(Metrics Dashboard)  
 
 ------
 ## How to Run the Project 
