@@ -18,26 +18,13 @@ The goal of this project is to showcase end-to-end DevOps skills — from applic
 ---
 
 ## 🏗️ Project Architecture
+│──Flask Todo App
+|__(Python + HTML)    
+|__Docker                #(Containerization) 
+│──cAdvisor + Prometheus #(Monitoring Stack)       
+|__Grafana               #(Metrics Dashboard)  
 
-|   Flask Todo App    |
-| (Python + HTML)     |
-+———————+
-|      Docker         |
-|  (Containerization) |
-+–––––+–––––+
-|
-v
-+———————+
-|   cAdvisor + Prometheus  |
-| (Monitoring Stack)       |
-+–––––+—————+
-|
-v
-+———————+
-|       Grafana       |
-| (Metrics Dashboard)  |
-+–––––+—————+
-
+------
 ## How to Run the Project 
 1. Clone the repository git clone
 https://github.com/yourusername/todo-devops-project.git cd todo-devops-project
