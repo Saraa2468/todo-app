@@ -18,12 +18,9 @@ The goal of this project is to showcase end-to-end DevOps skills — from applic
 ---
 
 ## 🏗️ Project Architecture
-+———————+
+
 |   Flask Todo App    |
 | (Python + HTML)     |
-+–––––+–––––+
-|
-v
 +———————+
 |      Docker         |
 |  (Containerization) |
